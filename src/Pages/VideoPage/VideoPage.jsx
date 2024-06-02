@@ -42,7 +42,7 @@ function VideoPage() {
       <div className="container2_videoPage">
         <div className="video_display_screen_videoPage">
           <video
-            src={`http://localhost:4444/${vv?.filePath}`}
+            src={`https://youtube-clone-backend-0p61.onrender.com/${vv?.filePath}`}
             className={"video_ShowVideo_videoPage"}
             controls
             autoPlay
