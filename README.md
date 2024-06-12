@@ -31,13 +31,13 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/Youtube_Clone_Frontend.git
    cd Youtube_Clone_Frontend
-2. **Install dependencies:
+2. **Install dependencies:**
    ```bash
    npm install
-3. **Run the application:
+3. **Run the application:**
    ```bash
    npm run start
-4. **Open your browser and navigate to:
+4. **Open your browser and navigate to:**
    ```bash
    http://localhost:3000
 
