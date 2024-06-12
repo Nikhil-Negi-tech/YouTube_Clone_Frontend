@@ -36,7 +36,7 @@ To get started with the project, follow these steps:
    npm install
 3. **Run the application:
    ```bash
-   npm start
+   npm run start
 4. **Open your browser and navigate to:
    ```bash
    http://localhost:3000
